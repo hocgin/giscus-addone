@@ -1,3 +1,14 @@
 {
+  "origins": [
+    "https://giscus.app",
+    "https://giscus.vercel.app",
+    "https://giscus-component.vercel.app",
+    "chrome-extension://ebpabnjlilmopkmicniobpiclgnpllbc"
+  ],
+  "originsRegex": [
+    "https://giscus-git-([A-z0-9]|-)*giscus\\.vercel\\.app",
+    "https://giscus-component-git-([A-z0-9]|-)*giscus\\.vercel\\.app",
+    "chrome-extension://ebpabnjlilmopkmicniobpiclgnpllbc"
+  ],
   "defaultCommentOrder": "newest"
 }
