@@ -1,5 +1,6 @@
 {
   "origins": [
+    "https://github.com",
     "https://giscus.app",
     "https://giscus.vercel.app",
     "https://giscus-component.vercel.app",
