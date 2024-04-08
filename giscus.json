@@ -6,7 +6,8 @@
     "chrome-extension://ebpabnjlilmopkmicniobpiclgnpllbc/sidepanel.html"
   ],
   "originsRegex": [
-    "http://localhost:[0-9]+"
+    "http://localhost:[0-9]+",
+    "chrome-extension://ebpabnjlilmopkmicniobpiclgnpllbc"
   ],  
   "defaultCommentOrder": "newest"
 }
