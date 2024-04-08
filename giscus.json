@@ -3,12 +3,14 @@
     "https://giscus.app",
     "https://giscus.vercel.app",
     "https://giscus-component.vercel.app",
-    "chrome-extension://ebpabnjlilmopkmicniobpiclgnpllbc/sidepanel.html"
+    "chrome-extension://ebpabnjlilmopkmicniobpiclgnpllbc/sidepanel.html",
+    ""
   ],
   "originsRegex": [
     "http://localhost:[0-9]+",
     "chrome-extension://ebpabnjlilmopkmicniobpiclgnpllbc.*",
-    ".*?://ebpabnjlilmopkmicniobpiclgnpllbc.*"
+    ".*?://ebpabnjlilmopkmicniobpiclgnpllbc.*",
+    ""
   ],  
   "defaultCommentOrder": "newest"
 }
