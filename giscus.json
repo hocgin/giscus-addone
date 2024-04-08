@@ -5,5 +5,8 @@
     "https://giscus-component.vercel.app",
     "chrome-extension://ebpabnjlilmopkmicniobpiclgnpllbc/sidepanel.html"
   ],
+  "originsRegex": [
+    "http://localhost:[0-9]+"
+  ],  
   "defaultCommentOrder": "newest"
 }
