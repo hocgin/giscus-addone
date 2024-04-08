@@ -1,3 +1,9 @@
 {
+  "origins": [
+    "https://giscus.app",
+    "https://giscus.vercel.app",
+    "https://giscus-component.vercel.app",
+    "chrome-extension://ebpabnjlilmopkmicniobpiclgnpllbc/sidepanel.html"
+  ],
   "defaultCommentOrder": "newest"
 }
