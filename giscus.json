@@ -5,7 +5,9 @@
     "null"
   ],
   "originsRegex": [
-    "http://localhost:[0-9]+"
-  ],  
+    "http://localhost:[0-9]+",
+    "https?://giscus-addone\\.hocgin\\.top",
+    "https?://hocgin.github.io/giscus-addone"
+  ],
   "defaultCommentOrder": "newest"
 }
