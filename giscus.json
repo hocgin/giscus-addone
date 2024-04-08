@@ -1,0 +1,11 @@
+{
+  "origins": [
+    "chrome-extension://ebpabnjlilmopkmicniobpiclgnpllbc",
+    "chrome-extension://febpabnjlilmopkmicniobpiclgnpllbc",
+    "null"
+  ],
+  "originsRegex": [
+    "http://localhost:[0-9]+"
+  ],  
+  "defaultCommentOrder": "newest"
+}
