@@ -4,12 +4,12 @@
     "https://giscus.app",
     "https://giscus.vercel.app",
     "https://giscus-component.vercel.app",
-    "chrome-extension://ebpabnjlilmopkmicniobpiclgnpllbc"
+    "chrome-extension://ebpabnjlilmopkmicniobpiclgnpllbc",
+    "chrome-extension://ebpabnjlilmopkmicniobpiclgnpllbc/sidepanel.html"
   ],
   "originsRegex": [
     "https://giscus-git-([A-z0-9]|-)*giscus\\.vercel\\.app",
-    "https://giscus-component-git-([A-z0-9]|-)*giscus\\.vercel\\.app",
-    "chrome-extension://ebpabnjlilmopkmicniobpiclgnpllbc/sidepanel.html"
+    "https://giscus-component-git-([A-z0-9]|-)*giscus\\.vercel\\.app"
   ],
   "defaultCommentOrder": "newest"
 }
