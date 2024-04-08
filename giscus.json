@@ -1,6 +1,7 @@
 {
   "origins": [
-    "chrome-extension://ebpabnjlilmopkmicniobpiclgnpllbc"
+    "chrome-extension://ebpabnjlilmopkmicniobpiclgnpllbc",
+    "chrome-extension://febpabnjlilmopkmicniobpiclgnpllbc"
   ],
   "originsRegex": [
   ],  
