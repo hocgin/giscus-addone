@@ -1,5 +1,6 @@
 {
   "origins": [
+    "https://giscus.app",
     "chrome-extension://ebpabnjlilmopkmicniobpiclgnpllbc",
     "chrome-extension://febpabnjlilmopkmicniobpiclgnpllbc",
     "null"
